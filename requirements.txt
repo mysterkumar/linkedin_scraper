@@ -1,3 +1,10 @@
-selenium
-requests
-lxml
+selenium>=4.15.0
+requests>=2.31.0
+lxml>=4.9.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+webdriver-manager>=4.0.0
+fake-useragent>=1.4.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+urllib3>=2.0.0

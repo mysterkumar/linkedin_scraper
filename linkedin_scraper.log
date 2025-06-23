@@ -1,0 +1,152 @@
+2025-06-23 15:47:09,207 - INFO - ====== WebDriver manager ======
+2025-06-23 15:47:11,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:47:12,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:47:14,023 - INFO - Driver [C:\Users\harsh\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-23 15:49:11,452 - INFO - ====== WebDriver manager ======
+2025-06-23 15:49:13,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:49:14,361 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:49:15,715 - INFO - Driver [C:\Users\harsh\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-23 15:49:16,997 - INFO - ChromeDriver initialized successfully
+2025-06-23 15:51:21,720 - INFO - Scraping interrupted by user
+2025-06-23 15:51:21,726 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/7d83e839b27bdefedc4bc59e6a344570
+2025-06-23 15:51:25,828 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024517C15010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d83e839b27bdefedc4bc59e6a344570
+2025-06-23 15:51:29,931 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024517C145C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d83e839b27bdefedc4bc59e6a344570
+2025-06-23 15:51:38,151 - INFO - Driver closed
+2025-06-23 15:52:39,337 - INFO - ====== WebDriver manager ======
+2025-06-23 15:52:40,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:52:42,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:52:43,515 - INFO - Driver [C:\Users\harsh\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-23 15:52:44,748 - INFO - ChromeDriver initialized successfully
+2025-06-23 15:53:56,265 - INFO - ====== WebDriver manager ======
+2025-06-23 15:53:57,696 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:53:59,038 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:54:00,120 - INFO - Driver [C:\Users\harsh\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-23 15:54:01,452 - INFO - ChromeDriver initialized successfully
+2025-06-23 15:54:09,304 - ERROR - Failed to login to LinkedIn: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="remember-me-prompt__form-primary"]"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xc63b03+62899]
+	GetHandleVerifier [0x0xc63b44+62964]
+	(No symbol) [0x0xa910f3]
+	(No symbol) [0x0xad980e]
+	(No symbol) [0x0xad9bab]
+	(No symbol) [0x0xb225c2]
+	(No symbol) [0x0xafe554]
+	(No symbol) [0x0xb1fd81]
+	(No symbol) [0x0xafe306]
+	(No symbol) [0x0xacd670]
+	(No symbol) [0x0xace4e4]
+	GetHandleVerifier [0x0xec4793+2556483]
+	GetHandleVerifier [0x0xebfd02+2537394]
+	GetHandleVerifier [0x0xc8a2fa+220586]
+	GetHandleVerifier [0x0xc7aae8+157080]
+	GetHandleVerifier [0x0xc8141d+184013]
+	GetHandleVerifier [0x0xc6ba68+95512]
+	GetHandleVerifier [0x0xc6bc10+95936]
+	GetHandleVerifier [0x0xc56b5a+9738]
+	BaseThreadInitThunk [0x0x773c5d49+25]
+	RtlInitializeExceptionChain [0x0x77bcd09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77bcd021+561]
+
+2025-06-23 15:54:11,561 - INFO - Driver closed
+2025-06-23 15:58:17,973 - INFO - ====== WebDriver manager ======
+2025-06-23 15:58:19,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:58:21,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-23 15:58:22,488 - INFO - Driver [C:\Users\harsh\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-23 15:58:23,608 - INFO - ChromeDriver initialized successfully
+2025-06-23 15:59:22,292 - INFO - Successfully logged into LinkedIn
+2025-06-23 15:59:22,292 - INFO - Discovering profiles from search...
+2025-06-23 15:59:31,131 - INFO - Discovered 3 total URLs, 3 new ones
+2025-06-23 15:59:31,132 - INFO - Scraping profile: https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg (attempt 1)
+2025-06-23 15:59:51,130 - WARNING - Attempt 1 failed for https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc63b03+62899]
+	GetHandleVerifier [0x0xc63b44+62964]
+	(No symbol) [0x0xa910f3]
+	(No symbol) [0x0xad980e]
+	(No symbol) [0x0xad9bab]
+	(No symbol) [0x0xacef51]
+	(No symbol) [0x0xafe554]
+	(No symbol) [0x0xacee74]
+	(No symbol) [0x0xafe784]
+	(No symbol) [0x0xb1fd81]
+	(No symbol) [0x0xafe306]
+	(No symbol) [0x0xacd670]
+	(No symbol) [0x0xace4e4]
+	GetHandleVerifier [0x0xec4793+2556483]
+	GetHandleVerifier [0x0xebfd02+2537394]
+	GetHandleVerifier [0x0xc8a2fa+220586]
+	GetHandleVerifier [0x0xc7aae8+157080]
+	GetHandleVerifier [0x0xc8141d+184013]
+	GetHandleVerifier [0x0xc6ba68+95512]
+	GetHandleVerifier [0x0xc6bc10+95936]
+	GetHandleVerifier [0x0xc56b5a+9738]
+	BaseThreadInitThunk [0x0x773c5d49+25]
+	RtlInitializeExceptionChain [0x0x77bcd09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77bcd021+561]
+
+2025-06-23 15:59:56,839 - INFO - Scraping profile: https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg (attempt 2)
+2025-06-23 16:00:17,592 - WARNING - Attempt 2 failed for https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc63b03+62899]
+	GetHandleVerifier [0x0xc63b44+62964]
+	(No symbol) [0x0xa910f3]
+	(No symbol) [0x0xad980e]
+	(No symbol) [0x0xad9bab]
+	(No symbol) [0x0xacef51]
+	(No symbol) [0x0xafe554]
+	(No symbol) [0x0xacee74]
+	(No symbol) [0x0xafe784]
+	(No symbol) [0x0xb1fd81]
+	(No symbol) [0x0xafe306]
+	(No symbol) [0x0xacd670]
+	(No symbol) [0x0xace4e4]
+	GetHandleVerifier [0x0xec4793+2556483]
+	GetHandleVerifier [0x0xebfd02+2537394]
+	GetHandleVerifier [0x0xc8a2fa+220586]
+	GetHandleVerifier [0x0xc7aae8+157080]
+	GetHandleVerifier [0x0xc8141d+184013]
+	GetHandleVerifier [0x0xc6ba68+95512]
+	GetHandleVerifier [0x0xc6bc10+95936]
+	GetHandleVerifier [0x0xc56b5a+9738]
+	BaseThreadInitThunk [0x0x773c5d49+25]
+	RtlInitializeExceptionChain [0x0x77bcd09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77bcd021+561]
+
+2025-06-23 16:00:24,746 - INFO - Scraping profile: https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg (attempt 3)
+2025-06-23 16:00:45,633 - WARNING - Attempt 3 failed for https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc63b03+62899]
+	GetHandleVerifier [0x0xc63b44+62964]
+	(No symbol) [0x0xa910f3]
+	(No symbol) [0x0xad980e]
+	(No symbol) [0x0xad9bab]
+	(No symbol) [0x0xacef51]
+	(No symbol) [0x0xafe554]
+	(No symbol) [0x0xacee74]
+	(No symbol) [0x0xafe784]
+	(No symbol) [0x0xb1fd81]
+	(No symbol) [0x0xafe306]
+	(No symbol) [0x0xacd670]
+	(No symbol) [0x0xace4e4]
+	GetHandleVerifier [0x0xec4793+2556483]
+	GetHandleVerifier [0x0xebfd02+2537394]
+	GetHandleVerifier [0x0xc8a2fa+220586]
+	GetHandleVerifier [0x0xc7aae8+157080]
+	GetHandleVerifier [0x0xc8141d+184013]
+	GetHandleVerifier [0x0xc6ba68+95512]
+	GetHandleVerifier [0x0xc6bc10+95936]
+	GetHandleVerifier [0x0xc56b5a+9738]
+	BaseThreadInitThunk [0x0x773c5d49+25]
+	RtlInitializeExceptionChain [0x0x77bcd09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77bcd021+561]
+
+2025-06-23 16:00:45,635 - ERROR - Failed to scrape https://www.linkedin.com/in/ACoAACQWI18B0UqTN7IybVqnK-r5Lkq020u4CNg after 3 attempts
+2025-06-23 16:00:51,785 - INFO - Scraping profile: https://www.linkedin.com/in/ramit-kundu-b3b91014a (attempt 1)
+2025-06-23 16:01:33,284 - INFO - Added profile: Ramit Kundu (https://www.linkedin.com/in/ramit-kundu-b3b91014a)
+2025-06-23 16:01:33,286 - INFO - Successfully scraped: Ramit Kundu
+2025-06-23 16:01:39,886 - INFO - Scraping profile: https://www.linkedin.com/in/tanmay0808 (attempt 1)
+2025-06-23 16:02:29,125 - INFO - Scraping completed. Total profiles scraped: 2
+2025-06-23 16:02:29,711 - INFO - Exported 2 profiles to linkedin_profiles_20250623_160229.xlsx
+2025-06-23 16:02:29,716 - INFO - Database saved with 2 profiles
+2025-06-23 16:02:32,146 - INFO - Driver closed
